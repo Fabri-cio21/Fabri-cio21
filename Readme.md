@@ -4,7 +4,9 @@
 # Hola, soy Fabricio :)
 
 Tengo 19 años y ando en el quinto ciclo de Ing. Empresarial y de Sistemas en la UCSUR.
+
 Ahorita le estoy metiendo con fuerza a la programación para ampliar lo que sé en electrónica, C++, desarrollo de sistemas y videojuegos.
+
 La idea es aprender herramientas nuevas, dominar conceptos clave y llevar todo a la práctica con proyectos propios para seguir creciendo y crear cosas apoyen a las demás personas.
 
 <br clear="right" />
