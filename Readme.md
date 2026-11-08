@@ -11,7 +11,7 @@ Busco dominar nuevos conceptos, aprender diferentes herramientas y poner en prá
 
 <br clear="right" />
 
-## Yo programo con :
+## Mis herraminetas favoritas son:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
