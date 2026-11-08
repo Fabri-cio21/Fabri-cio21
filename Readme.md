@@ -33,7 +33,8 @@ Busco dominar nuevos conceptos, aprender diferentes herramientas y poner en prá
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/ig6QTviEaYoAAAAd/megumin.gif"  />
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI3OWx6dDd0dGF6MTE5cGM1YTc0OGFuaXYyandiYjB6cGdlOTE1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FasDzeycTUNG5Ll7IA/giphy.gif"  />
+  
 </div>
 
 ###
